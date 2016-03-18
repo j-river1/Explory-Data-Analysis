@@ -13,7 +13,7 @@
 
 4. Which of the following is an example of a valid graphics device in R?
 
-    Answer: A PDF file
+    Answer: SVG
 
 5. Which of the following is an example of a vector graphics device in R?
 
